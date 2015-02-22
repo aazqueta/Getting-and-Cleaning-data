@@ -3,7 +3,6 @@
 =================================================
 Course Project  --- Getting and Cleaning Data
 Feb. 2015
-Guillermina Gavaldon
 =================================================
 Prepare tidy data that can be used for later analysis
 
